@@ -1,0 +1,12 @@
+{
+  "name": "reloadonsave",
+  "version": "1.0.0",
+  "description": "Reload resource on filechange",
+  "main": "reloader.js",
+  "author": "logan",
+  "license": "MIT",
+  "dependencies": {
+    "@citizenfx/server": "^1.0.2903-1",
+    "chokidar": "^3.4.2"
+  }
+}
